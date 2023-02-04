@@ -4,8 +4,8 @@
 
 ## 个人信息 
 * 性 别：男  &ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 年 龄：27  
-* 手 机：15198015636  &ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：jacli95@163.com   
-* 专 业：计算机科学与计算&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：后台开发工程师        
+* 手 机：15198015636  &ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：jacli95@163.com   
+* 专 业：计算机科学与计算&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;岗 位：后台开发工程师        
 
 ## 工作经历
 * 腾讯&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.6~至今&emsp;&emsp;&emsp;&emsp;&emsp; PCG社交线(QQ)-增值产品部       
