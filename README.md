@@ -5,13 +5,13 @@
 ## 个人信息 
 * 性 别：男  &ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 年 龄：27  
 * 手 机：15198015636  &ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：jacli95@163.com   
-* 专 业：计算机科学与计算&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;岗 位：后台开发工程师        
+* 专 业：计算机科学与技术&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;岗 位：后台开发工程师        
 
 ## 工作经历
 * 腾讯&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.6~至今&emsp;&emsp;&emsp;&emsp;&emsp; PCG社交线(QQ)-增值产品部       
 
 ## 专业技能
-* 熟练使用Go(主力开发语言，3.5年开发经验)，掌握C++
+* 熟练使用Go，掌握C++
 * 熟练使用kafka、redis、mysql等通用组件、熟悉ZooKeeper等分布式组件
 * 掌握基础数据结构和算法的基本原理
 * 基于QQ海量业务场景，熟练高并发和海量微服务开发
@@ -38,11 +38,7 @@
 ## 教育经历
 
 * 四川大学&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2019.6&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-硕士
-* 兰州大学&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2019.6&emsp;&emsp;&emsp;&emsp; 软件工程-学士
+* 兰州大学&emsp;&emsp;&emsp;&emsp;&emsp;2012.9~2016.6&emsp;&emsp;&emsp;&emsp; 软件工程-学士
 
 ## 其他信息 
 * 喜欢钻研技术，撰写技术文章《从0到1详解ZooKeeper的应用场景及架构原理》收录于“腾讯技术工程”官方公众号
-* 运营短视频账号，深度体验“抖音”短视频点赞、评论、发布、创作者中心流程，思考功能模块的实现架构
-
-
-
